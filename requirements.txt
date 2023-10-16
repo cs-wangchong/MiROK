@@ -1,0 +1,8 @@
+torch
+codetoolkit
+nltk
+numpy
+nltk
+gensim
+tqdm
+pathos
